@@ -1,0 +1,118 @@
+[INFO] 21-03-2025 00:10:59 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:10:59 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:11:16 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:11:36 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 00:11:36 [main] [BaseTest] - Closing browser
+[INFO] 21-03-2025 00:11:38 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:11:38 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:11:51 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:11:51 [main] [BaseTest] - Closing browser
+[INFO] 21-03-2025 00:27:57 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:27:57 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:28:14 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:28:35 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 00:28:36 [main] [BaseTest] - Closing browser
+[INFO] 21-03-2025 00:29:46 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:29:46 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:30:05 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:30:25 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 00:30:26 [main] [BaseTest] - Closing browser
+[INFO] 21-03-2025 00:30:27 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:30:27 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:30:37 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:31:07 [main] [BaseTest] - Closing browser
+[INFO] 21-03-2025 00:35:12 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:35:12 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:35:29 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:35:49 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 00:48:58 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:48:58 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:49:16 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:49:36 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 00:57:41 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 00:57:41 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 00:57:59 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 00:58:19 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:06:07 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:06:07 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:06:25 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:06:46 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:06:46 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:06:46 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:06:58 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:10:44 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:10:44 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:11:01 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:11:21 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:16:01 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:16:01 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:16:21 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:16:41 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:19:00 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:19:00 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:19:17 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:19:37 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:27:02 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:27:02 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:27:18 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:27:38 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:27:44 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 01:31:03 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:31:03 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:31:19 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:31:39 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:31:46 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 01:38:43 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:38:43 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:39:00 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:39:21 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:39:27 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 01:42:36 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:42:36 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:42:53 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:43:13 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:43:19 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 01:48:59 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:48:59 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:49:16 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:49:37 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:49:44 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 01:50:19 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:50:19 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:50:35 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:50:55 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:51:01 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 01:51:07 [main] [BaseTest] - Test Case Passed: Scope was created successfully and Verified Toast Message
+[INFO] 21-03-2025 01:51:13 [main] [BaseTest] - Test Case Passed: Successfully verified Created scope in the List of scopes
+[INFO] 21-03-2025 01:57:49 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 01:57:49 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 01:58:13 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 01:58:35 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 01:58:42 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 01:58:49 [main] [BaseTest] - Test Case Passed: Scope was created successfully and Verified Toast Message
+[INFO] 21-03-2025 01:58:54 [main] [BaseTest] - Test Case Passed: Successfully verified Created scope in the List of scopes
+[INFO] 21-03-2025 02:04:20 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 02:04:20 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 02:04:45 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 02:05:07 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 02:05:14 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 02:05:21 [main] [BaseTest] - Test Case Passed: Scope was created successfully and Verified Toast Message
+[INFO] 21-03-2025 02:05:27 [main] [BaseTest] - Test Case Passed: Successfully verified Created scope in the List of scopes
+[INFO] 21-03-2025 02:18:51 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 02:18:51 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 02:20:18 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 02:20:37 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 02:20:45 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 02:20:52 [main] [BaseTest] - Test Case Passed: Scope was created successfully and Verified Toast Message
+[INFO] 21-03-2025 02:20:57 [main] [BaseTest] - Test Case Passed: Successfully verified Created scope in the List of scopes
+[INFO] 21-03-2025 02:21:51 [main] [BaseTest] - Test Case Passed:Successfully updated the Scope
+[INFO] 21-03-2025 02:33:56 [main] [BaseTest] - Starting test setup
+[INFO] 21-03-2025 02:33:56 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 21-03-2025 02:34:16 [main] [BaseTest] - Setup completed successfully
+[INFO] 21-03-2025 02:34:38 [main] [BaseTest] - User successfully logged into application
+[INFO] 21-03-2025 02:34:45 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 21-03-2025 02:34:52 [main] [BaseTest] - Test Case Passed: Scope was created successfully and Verified Toast Message
+[INFO] 21-03-2025 02:34:58 [main] [BaseTest] - Test Case Passed: Successfully verified Created scope in the List of scopes
+[INFO] 21-03-2025 02:35:51 [main] [BaseTest] - Test Case Passed:Successfully updated the Scope
+[INFO] 21-03-2025 02:36:03 [main] [BaseTest] - scope deleted successfully 
+[INFO] 21-03-2025 02:36:09 [main] [BaseTest] - deleted scope verified in the scope list

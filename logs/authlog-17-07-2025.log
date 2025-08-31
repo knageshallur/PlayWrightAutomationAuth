@@ -1,0 +1,17 @@
+[INFO] 17-07-2025 12:15:32 [main] [BaseTest] - Starting test setup
+[INFO] 17-07-2025 12:15:32 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 17-07-2025 12:15:51 [main] [BaseTest] - Setup completed successfully
+[INFO] 17-07-2025 12:16:16 [main] [BaseTest] - User successfully logged into application
+[INFO] 17-07-2025 12:16:22 [main] [BaseTest] - Test Case Passed: All components are visible on the Scopes Page as expected.
+[INFO] 17-07-2025 12:16:28 [main] [BaseTest] - Test Case Passed: Scope was created successfully and Verified Toast Message
+[INFO] 17-07-2025 12:16:33 [main] [BaseTest] - Test Case Passed: Successfully verified Created scope in the List of scopes
+[INFO] 17-07-2025 12:16:49 [main] [BaseTest] - Test Case Passed:Successfully verified Edit icon And Adding Locales In The Scopes
+[INFO] 17-07-2025 12:16:49 [main] [BaseTest] - Test Case Passed: Successfully verified added Locales in the list
+[INFO] 17-07-2025 12:17:04 [main] [BaseTest] - Test Case Passed:Successfully deleted locales from the scopes
+[INFO] 17-07-2025 12:17:06 [main] [BaseTest] - Test Case Passed:Successfully updated the Scope
+[INFO] 17-07-2025 12:17:15 [main] [BaseTest] - scope deleted successfully 
+[INFO] 17-07-2025 12:17:21 [main] [BaseTest] - deleted scope verified in the scope list
+[INFO] 17-07-2025 12:17:39 [main] [BaseTest] - New client form created successfully
+[INFO] 17-07-2025 12:18:08 [main] [BaseTest] - New Variable created successfully
+[INFO] 17-07-2025 12:18:14 [main] [BaseTest] - New Blueprint created successfully
+[INFO] 17-07-2025 12:18:56 [main] [BaseTest] - client Mapped successfully into the blueprint
