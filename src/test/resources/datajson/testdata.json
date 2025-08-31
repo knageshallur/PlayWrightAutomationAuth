@@ -1,0 +1,40 @@
+{
+  "Login": {
+    "username": "nageshkumar.k@skill-mine.com",
+    "password": "Test@123"
+  },
+  "CreateScope": {
+    "Scope_Key": "automation scope"
+  },
+  "SuccessToast": {
+    "ScopeCreteSuccessMessage": "Scope Created Successfully",
+    "ScopeUpdateSuccessMessage": "Scope Updated Successfully",
+    "LocaleAddSuccessMessage": "Locale saved successfully",
+    "DeleteLocaleSuccessMessage": "Locale deleted successfully",
+    "DeleteScopeSuccessMessage": "Deleted Successfully"
+  },
+  "Locale Details": {
+    "Scope Title": "automation test",
+    "Description": "automation testing for adding the locales to scope",
+    "ScopeTitleDelete": "automation delete"
+  },
+  "CreateClient": {
+    "client_name": "automation client",
+    "logo_URL": "https://portal-demo-accounts.licentio.com/assets/img/logo_main.png"
+  },
+  "create variable": {
+    "variavleName": "automation_text_field",
+    "displayName": "automation Text Field",
+    "requiredText": "required this field",
+    "successMessage": " Field  Created Successfully!"
+  },
+  "passwordpolicy": {
+    "successMessage": "Updated Successfully"
+  },
+
+  "blueprint": {
+    "blueprintName": "Automationflow",
+    "description": "For Automation testing",
+    "createToastMessage": "Created Successfully"
+  }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Test Suite">
+    <!--thread-count="2" parallel="tests"-->
+    <listeners>
+        <listener
+                class-name="com.java.auth.report.ExtentReportListener" />
+    </listeners>
+    <test name="Auth Application Smoke Test Suite">
+        <groups>
+            <run>
+                <include name="Smoke Test" />
+            </run>
+        </groups>
+
+        <classes>
+            <class name="com.skillmineauth.projects.auth.testcases.LoginTest" />
+            <class name="com.skillmineauth.projects.auth.testcases.ScopePageTest" />
+            <class name="com.skillmineauth.projects.auth.testcases.ClientSettingsTest" />
+<!--            <class name="com.skillmineauth.projects.auth.testcases.PasswordPolicyPageTest"/>-->
+            <class name="com.skillmineauth.projects.auth.testcases.SchemasPageTest" />
+            <class name="com.skillmineauth.projects.auth.testcases.BlueprintsPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite>

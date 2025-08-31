@@ -1,0 +1,1 @@
+{"uuid":"69281d63-7d86-4b5f-bda9-3d180a713ea0","name":"Smoke Test Suite","children":["8377762f-3645-4d1e-80bd-0b173f6e1e34"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1752830343935,"stop":1752830363655}],"afters":[],"start":1752830343891,"stop":1752830426135}

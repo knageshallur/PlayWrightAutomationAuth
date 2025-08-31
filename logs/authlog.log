@@ -1,0 +1,6 @@
+[INFO] 18-07-2025 14:46:32 [main] [BaseTest] - Starting test setup
+[INFO] 18-07-2025 14:46:32 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 18-07-2025 14:46:57 [main] [BaseTest] - Setup completed successfully
+[INFO] 18-07-2025 14:49:03 [main] [BaseTest] - Starting test setup
+[INFO] 18-07-2025 14:49:03 [main] [PlaywrightFactory] - Executing test scripts in chrome browser
+[INFO] 18-07-2025 14:49:23 [main] [BaseTest] - Setup completed successfully
